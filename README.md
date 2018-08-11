@@ -5,3 +5,8 @@
 ## Data visualisation with decision boundary ----
 
 ## Training set--
+
+
+![svm-trainingset](https://user-images.githubusercontent.com/40026126/43994021-a4b3d906-9db3-11e8-8ca5-f845de069edd.PNG)
+
+
